@@ -38,7 +38,7 @@ elpetros99-hybridquantummilp/
 
 ### Clone the repository:
 ```bash
-git clone https://github.com/your-username/elpetros99-hybridquantummilp.git
+git clone https://github.com/elpetros99/HybridQuantumMILP.git
 cd HybridQuantumMILP
 ```
 
